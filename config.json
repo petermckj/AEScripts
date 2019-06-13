@@ -1,0 +1,11 @@
+{
+    "project":{
+        "name": "test_aesx",
+        "source_file": "my_data.csv",
+        "vw": 1920,
+        "vh": 1080,
+        "pixelratio": 1,
+        "duration": 10,
+        "framerate": 24
+    }
+}
